@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\bin\Debug\Projeto_8.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\bin\Debug\Projeto_8.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\bin\Debug\Projeto_8.pdb
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.UserControl1.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_8\Projeto_8\obj\Debug\Projeto_8.pdb
